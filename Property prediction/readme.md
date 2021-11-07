@@ -1,1 +1,1 @@
-Property prediction using various models. These don't involve hyperparameter optimization unless stated otherwise as I am curious to how the base models would perform.
+Property prediction using various models. These don't involve hyperparameter optimization unless stated otherwise as I am curious to how the base models would perform. I am a bit biased towards the use of graph neural networks as they capture the essence of molecules, taking account of atoms, their neighbors and bonds between them!
